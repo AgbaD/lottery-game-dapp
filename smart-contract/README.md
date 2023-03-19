@@ -11,3 +11,7 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+
+RandomWinnerGame CA: 0x59a5eB6571452d7C4077bF2A85d87aFD08d11634
+Etherscan: https://mumbai.polygonscan.com/address/0x59a5eB6571452d7C4077bF2A85d87aFD08d11634#code
